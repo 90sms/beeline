@@ -1,7 +1,7 @@
 import csv
 import ipaddress
 
-#FILE = 'file\Test_Python.csv'
+FILE = 'file\Test_Python.csv'
 NET_MASKS = {'0.0.0.0': '0',
              '128.0.0.0': '1',
              '192.0.0.0': '2',
